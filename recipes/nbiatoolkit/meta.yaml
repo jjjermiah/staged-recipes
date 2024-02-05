@@ -31,7 +31,7 @@ requirements:
     - poetry-core
     - pip
   run:
-    - python >=3.10||3.12
+    - python >=3.10
     - requests 2.31.0
     - pydicom >=2.4.3,<3.0.0
     - tqdm >=4.66.1,<5.0.0
